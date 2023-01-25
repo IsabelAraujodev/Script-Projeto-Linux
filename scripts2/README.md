@@ -1,0 +1,1 @@
+Neste projeto, proposto pela DIO, foi criado um script onde será proviosionado um servidor web automaticamente.
